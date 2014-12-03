@@ -3,6 +3,7 @@
 body {
     font-family: 'Ubuntu', 'Helvetica Neue', 'Helvetica', sans-serif;
     font-weight: 400;
+    background-color: rgba(128,192,255, .5);
 }
 
 .product-picture {
@@ -11,3 +12,11 @@ body {
     margin-right: 10px;
 }
 
+section {
+    padding-top: 10px;
+}
+
+#item {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
